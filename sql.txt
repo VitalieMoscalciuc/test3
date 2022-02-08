@@ -1,4 +1,4 @@
-Hello
+Hello, Salut
 create table angajati(
 id_angajat int not null auto_increment primary key,
 id_functia int,
